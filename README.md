@@ -3,7 +3,7 @@
 ## 🌍 About Me  
 I’m an aspiring **DevSecOps Architect** on a journey to master Cloud, Security, and Automation while building tools and mentoring African tech talent.  
 
-- ⚙️ Working with **Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, AWS, Azure, GCP**
+- ⚙️ Working with **Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, AWS, Azure, GCP...**
 - 🐳 Containers, ☸️ Kubernetes, 🛠️ Terraform, and ☁️ Cloud keep me busy.
 - ⚡ I break things, automate the fix, then teach others how not to break them again.
 - 💡 Passionate about **Cloud-Native Security, CI/CD, Infrastructure as Code, and DevSecOps best practices**  
@@ -26,7 +26,7 @@ I’m an aspiring **DevSecOps Architect** on a journey to master Cloud, Security
 ---
 
 ## 📊 GitHub Stats  
-![Uchenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utinobrace&show_icons=true&theme=radical)  
+![Uchenna's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinobrace&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinobrace&layout=compact&theme=radical)  
 
