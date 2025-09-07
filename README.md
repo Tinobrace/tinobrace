@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Uchenna Valentine Ukah  
 
 ## 🌍 About Me  
-I’m an aspiring **DevSecOps Architect** on a journey to master Cloud, Security, and Automation while building tools and mentoring African tech talent.  
+I’m a **DevSecOps Architect** (aspiring), on a journey to master Cloud, Security, and Automation while building tools and mentoring African tech talent.  
 
 - ⚙️ Working with **Kubernetes, Docker, Terraform, Jenkins, GitHub Actions, AWS, Azure, GCP...**
 - 🐳 Containers, ☸️ Kubernetes, 🛠️ Terraform, and ☁️ Cloud keep me busy.
